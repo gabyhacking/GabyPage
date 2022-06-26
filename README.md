@@ -2,7 +2,7 @@
 
 > Status: In development ⚠️
 
-### This WebSite is made by: gabyhacking#2022 ( This WebSite is 100% free, if you're going to use it, you don't need the credits ;) )
+### This WebSite is made by: </stuna>#0701 ( This WebSite is 100% free, if you're going to use it, you don't need the credits ;) )
 
 ## How to edit the WebSite
 
@@ -12,7 +12,7 @@
 
 ## Additional Information
 
-* You can ask for my help in my discord ( My discord is: gabyhacking#2022 )
+* You can ask for my help in my discord ( My discord is: </stuna>#0701 )
 * Some courses can help you to get to know the languages better
 
 ## This features are in development:
