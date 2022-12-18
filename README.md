@@ -2,7 +2,7 @@
 
 > Status: In development ⚠️
 
-### This WebSite is made by: gabyhacking#0701 ( This WebSite is 100% free, if you're going to use it, you don't need the credits ;) )
+### This WebSite is made by: gabydev#8987 ( This WebSite is 100% free, if you're going to use it, you don't need the credits ;) )
 
 ## How to edit the WebSite
 
@@ -12,7 +12,7 @@
 
 ## Additional Information
 
-* You can ask for my help in my discord ( My discord is: gabyhacking#0701 )
+* You can ask for my help in my discord ( My discord is: gabydev#8987 )
 * Some courses can help you to get to know the languages better
 
 ## This features are in development:
@@ -31,5 +31,3 @@
 </table>
 
 PS: You need a minimum knowledge of CSS, HTML & JavaScript to edit. 
-
-<center><img src="https://cdn.discordapp.com/attachments/953748242292699172/985412866008027136/a_d3792910171374669b97926df61e06e4.gif"></center>
